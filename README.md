@@ -1,5 +1,5 @@
 ## Hey, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Anirudh 
-### My name is Anirudh and I front end developer. I enjoy developing front-end websites and machine learning models.
+### My name is Anirudh. I enjoy developing front-end websites and machine learning models.
 
 ### About me :
 
