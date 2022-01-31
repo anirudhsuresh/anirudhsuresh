@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudh_ramchandran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudh-ramchandran//)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudh_ramchandran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudh-ramchandran//)](https://www.linkedin.com/in/anirudh-ramchandran)
 [![Gmail Badge](https://img.shields.io/badge/-aniramch@ucdavis.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aniramch@ucdavis.edu)](mailto:aniramch@ucdavis.edu)
 [![Website](https://img.shields.io/website?label=anirudh-suresh-ramchandran.web.app.com&sstyle=flat-square&url=https%3A%2F%2Fcodestackr.com)](https://anirudh-suresh-ramchandran.web.app/)
 
