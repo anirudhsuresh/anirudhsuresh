@@ -12,6 +12,7 @@
 
 <br />
 
+<br />
 
 ### Connect with me:
 
@@ -41,10 +42,13 @@
 
 <br />
 
+<br />
+
 ### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhsuresh&hide=contribs,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
 
 <br />
 ### Top Languages
