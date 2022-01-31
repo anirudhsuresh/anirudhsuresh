@@ -12,7 +12,6 @@
 
 <br />
 
-<br />
 
 ### Connect with me:
 
@@ -42,7 +41,6 @@
 
 <br />
 
-<br />
 
 ### Github Stats
 
@@ -50,7 +48,8 @@
 
 <br />
 
-<br />
+
+
 ### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhsuresh&hide=TeX&layout=compact&theme=radical)
