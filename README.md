@@ -66,3 +66,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anirudhsuresh)
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{anirudhsuresh}/count.svg) -->
 
+### Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3jg7lgfktl5ssezgqilnt47wi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
