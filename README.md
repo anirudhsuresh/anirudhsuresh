@@ -50,9 +50,9 @@
 
 
 
-<!-- ### Top Languages
+ ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhsuresh&hide=TeX&layout=compact&theme=radical) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhsuresh&hide=TeX&layout=compact&theme=radical) 
 
 <!-- 
 <br />
