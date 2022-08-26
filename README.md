@@ -3,8 +3,8 @@
 
 ### About me :
 
+  - :rocket: I’m currently working @ [SiFive](https://www.sifive.com) as a SDE 
   - :cow: UC Davis CE Master's Grad
-  - :rocket: I’m currently work at SiFive as a SDE 
   - ⚡:coffee: Fun fact: I love making authentic [Indian filter coffee](https://en.wikipedia.org/wiki/Indian_filter_coffee)
    <img height="150" src="https://github.com/anirudhsuresh/ReadMe/blob/main/coffee_ani.jpg">
 
