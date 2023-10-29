@@ -19,3 +19,9 @@ I enjoy developing front end visual tools, and css animations
 [![Website](https://img.shields.io/website?label=anirudhsuresh.github.io.com&sstyle=flat-square&url=https%3A%2F%2Fcodestackr.com)](https://anirudhsuresh.github.io/)
 
 
+##
+![ani's Stats](https://github-readme-stats.vercel.app/api?username=anirudhsuresh&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![ani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhsuresh&theme=vue-dark&hide_border=true)
+![ani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhsuresh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
