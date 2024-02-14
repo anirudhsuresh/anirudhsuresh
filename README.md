@@ -3,7 +3,7 @@ I enjoy developing front end visual tools, and css animations
 
 ### About me :
 
-  - :computer: Looking for SDE or Front End Engineering Roles!
+  - :computer: Working as a Sr. Software Engineer @ [Tenstorrent](https://tenstorrent.com/)
   - :rocket: Worked @ [SiFive](https://www.sifive.com) as a SDE 
   - :cow: UC Davis CE Master's Grad
   - ⚡:coffee: Fun fact: I love making authentic [Indian filter coffee](https://en.wikipedia.org/wiki/Indian_filter_coffee)
