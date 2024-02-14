@@ -1,5 +1,5 @@
 ## Hey, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Anirudh 
-Working on full stack, AI Hardware & Software 2.0 🤖
+Working on full stack, AI Hardware & Software 2.0 :rocket: 🤖
 
 ### About me :
 
