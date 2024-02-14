@@ -1,11 +1,11 @@
 ## Hey, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Anirudh 
-I enjoy developing front end visual tools, and css animations
+Working on full stack, AI Hardware & Software 2.0 🤖
 
 ### About me :
 
   - :computer: Working as a Sr. Software Engineer @ [Tenstorrent](https://tenstorrent.com/)
   - :rocket: Worked @ [SiFive](https://www.sifive.com) as a SDE 
-  - :cow: UC Davis CE Master's Grad
+  - :cow: graduted from UC Davis
   - ⚡:coffee: Fun fact: I love making authentic [Indian filter coffee](https://en.wikipedia.org/wiki/Indian_filter_coffee)
 <!--    <img height="150" src="https://github.com/anirudhsuresh/ReadMe/blob/main/coffee_ani.jpg"> -->
 
